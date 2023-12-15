@@ -1,5 +1,2 @@
 - 👋 <b>Merhaba, ben Batuhan Çulhacıoğlu</b><br>
-4.Sınıf Elektrik-Elektronik Mühendisliği öğrencisiyim. Model roketler aviyonik sistemleri<br>
-konusunda kendimi geliştirmeye çalışıyorum. Yaptığım çalışmaları github'da paylaşmaktayım.<br>
-Şu anda algoritmayı arduino üzerinde yazmamıza rağmen STM32F407VG geliştirme kartına <br>
-aynı algoritmaları uyarlamaya çalışmaktayım.
+Aviyonik sistemler, hava araçları, roket, IHA ve uzay sistemleri üzerinde kullanılan gömülü yazılım sistemleri hakkında çalışmalar gerçekleştirdim. Birden farklı toplulukta ekip üyesi ve takım kaptanı olarak görevlerde bulundum, ekip çalışmasına uyumlu ve çözüm odaklıyım. Bu süreçte farklı Xbee, LoRa, MEMS (IMU, Pressure Sensors, 8CH ADC, SPI External Flash vb.) sensörler ve modüller üzerinde 2020 yılından günümüze kadar proje geliştirme ve AR-GE çalışmalarında bulundum.
